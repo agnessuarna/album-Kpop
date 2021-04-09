@@ -1,0 +1,16 @@
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\bin\Debug\net5.0\album kpop.exe
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\bin\Debug\net5.0\album kpop.deps.json
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\bin\Debug\net5.0\album kpop.runtimeconfig.json
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\bin\Debug\net5.0\album kpop.runtimeconfig.dev.json
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\bin\Debug\net5.0\album kpop.dll
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\bin\Debug\net5.0\ref\album kpop.dll
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\bin\Debug\net5.0\album kpop.pdb
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.csprojAssemblyReference.cache
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.GeneratedMSBuildEditorConfig.editorconfig
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.AssemblyInfoInputs.cache
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.AssemblyInfo.cs
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.csproj.CoreCompileInputs.cache
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.dll
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\ref\album kpop.dll
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.pdb
+D:\collage\smt2\pemrograman berorientasi objek\latihan\album kpop\obj\Debug\net5.0\album kpop.genruntimeconfig.cache
